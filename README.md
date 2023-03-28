@@ -53,6 +53,10 @@ Subcolección: Una conlección dentro de un documento <br/>
 Colección Raíz (root collection) Separar datos en otra colección y luego referenciarlas por medio de sus IDs <br/> 
 Importante: el tamaño máximo de un documento es 1MB<br/> 
 
+<h5>TypeScript</h5> 
+1) npm init <br/> 
+2) npm install --save firebase (Instala la dependecias de firebase)<br/> 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SOLID -->
