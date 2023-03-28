@@ -41,6 +41,12 @@ dotnet run --project WebSite/WebSite.csproj<br/>
 
 <!-- Angular + Firebase -->
 ## Angular
+<h5>NO SQL Features</h5> 
+Tipos de datos especiales <br/> 
+Geopint: una coordenada (longitud/latitud)<br/> 
+Map: Es como un Hashmap o un objecto en JS, empotrado dentro del documento <br/> 
+Array: Lista de valores ordenados, empotrado dentro del documento <br/> 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SOLID -->
