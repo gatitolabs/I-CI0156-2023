@@ -47,6 +47,12 @@ Geopint: una coordenada (longitud/latitud)<br/>
 Map: Es como un Hashmap o un objecto en JS, empotrado dentro del documento <br/> 
 Array: Lista de valores ordenados, empotrado dentro del documento <br/> 
 
+<h5>Técnicas de modelado de datos</h5> 
+Empotrado: Todo dentro del mismo documento <br/> 
+Subcolección: Una conlección dentro de un documento <br/> 
+Colección Raíz (root collection) Separar datos en otra colección y luego referenciarlas por medio de sus IDs <br/> 
+Importante: el tamaño máximo de un documento es 1MB<br/> 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SOLID -->
