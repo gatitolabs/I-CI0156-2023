@@ -56,6 +56,7 @@ Importante: el tamaño máximo de un documento es 1MB<br/>
 <h5>TypeScript</h5> 
 1) npm init <br/> 
 2) npm install --save firebase (Instala la dependecias de firebase)<br/> 
+3) npm install --save-dev typescript prettier <br/> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
