@@ -56,15 +56,15 @@ Importante: el tamaño máximo de un documento es 1MB<br/>
 <h5>TypeScript</h5> 
 1) npm init <br/> 
 2) npm install --save firebase (Instala la dependecias de firebase)<br/> 
-3) npm install --save-dev typescript prettier <br/> 
-4) tsc --init 
-5) 
+4) npm install --save-dev typescript prettier <br/> 
+5) tsc --init 
+6) 
 
 Troubleshooting
-4) ./node_modules/.bin/tsc --init 
+4) ./node_modules/.bin/tsc --init <br/> 
 
-File>Preferences>Settings>Format on sav (enable)
-File>Preferences>Settings>Default Formatter (Choose Prettier - Code formatter)
+File>Preferences>Settings>Format on sav (enable)<br/> 
+File>Preferences>Settings>Default Formatter (Choose Prettier - Code formatter)<br/> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
